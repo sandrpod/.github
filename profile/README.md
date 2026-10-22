@@ -8,3 +8,4 @@ Self-hosted execution infrastructure for AI agents — your clouds, your machine
   and the failures they were measured from.
 
 Built by [@itscjzhao](https://x.com/itscjzhao) — enterprise software since 2007.
+Follow the build on Facebook — shorter updates and discussion: https://www.facebook.com/itscjzhao
